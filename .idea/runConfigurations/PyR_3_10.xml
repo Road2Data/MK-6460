@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="PyRa3-11" type="PythonConfigurationType" factoryName="Python">
+  <configuration default="false" name="PyR 3.10" type="PythonConfigurationType" factoryName="Python">
     <module name="Projects" />
     <option name="ENV_FILES" value="" />
     <option name="INTERPRETER_OPTIONS" value="" />
@@ -8,12 +8,12 @@
       <env name="PYTHONUNBUFFERED" value="1" />
     </envs>
     <option name="SDK_HOME" value="" />
-    <option name="SDK_NAME" value="PyRa_3-11" />
-    <option name="WORKING_DIRECTORY" value="C:\Users\alexs\OneDrive\Documents\College\03 Rockhurst\MK 6460 - Marketing Research &amp; Analytics\Projects" />
+    <option name="SDK_NAME" value="PyR_310" />
+    <option name="WORKING_DIRECTORY" value="" />
     <option name="IS_MODULE_SDK" value="false" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
-    <option name="SCRIPT_NAME" value="PyRa3-11 Script" />
+    <option name="SCRIPT_NAME" value="PyR_310" />
     <option name="PARAMETERS" value="" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />
